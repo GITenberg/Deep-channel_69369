@@ -1,0 +1,34 @@
+_repo: Deep-channel_69369
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Montague, Margaret Prescott
+    alias: Montague, Margaret Preston
+    birthdate: 1878
+    deathdate: 1955
+    gutenberg_agent_id: '39291'
+    url: http://www.gutenberg.org/2009/agents/39291
+    wikipedia: https://en.wikipedia.org/wiki/Margaret_Prescott_Montague
+description: ''
+gutenberg_issued: '2022-11-17'
+identifiers:
+  gutenberg: '69369'
+language: en
+pgterms:marc905: 20220602143213montague
+pgterms:marc906: '1923'
+pgterms:marc907: US
+production_note: hekula03, David E. Brown, and the Online Distributed Proofreading
+  Team at https://www.pgdp.net (This book was produced from images made available
+  by the HathiTrust Digital Library.)
+publication_note: 'United States: The Atlantic Monthly Press,1923.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Villages -- Fiction'
+- !lcsh 'Man-woman relationships -- Fiction'
+- !lcsh 'Virginia -- Fiction'
+- !lcc 'PS'
+- GITenberg
+title: Deep channel
+url: http://www.gutenberg.org/ebooks/69369
